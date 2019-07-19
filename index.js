@@ -9,5 +9,5 @@ function theBeatlesPlay(musician,instrument){
 
 function johnLennonFacts(facts){
   let i = 0
-  while()
+  while(i < facts.length)
 }
